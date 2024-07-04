@@ -13,12 +13,14 @@ https://github.com/Nithin1729S/Brain-Tumor-Classification/assets/78496667/45e0de
 
 
 
+
+[Watch the Demo Video on YouTube](https://youtu.be/8CGXEmEt4Sc)
  ## Screenshots
 ![Screenshot from 2024-07-04 03-32-03](https://github.com/Nithin1729S/Brain-Tumor-Classification/assets/78496667/623b1a92-dec5-4e81-b213-0c21a26430af)
 ![Screenshot from 2024-07-04 03-33-40](https://github.com/Nithin1729S/Brain-Tumor-Classification/assets/78496667/16a19c15-187e-4814-b852-2275fb17b4ee)
 
  
-[Watch the Demo Video on YouTube](https://youtu.be/8CGXEmEt4Sc)
+
 ## Technologies Used
 
 - Python
